@@ -3,11 +3,10 @@ Writeup for TryHackMe Fixit Lab - Splunk log parsing, event boundary fixes, cust
 
 By Ramyar Daneshgar 
 
-# TryHackMe Writeup: FixIt Room
 
 ## Introduction
 
-The **FixIt** room on TryHackMe is a hands-on challenge designed to test and enhance practical skills in log ingestion, event boundary definition, field extraction, and event analysis using Splunk. This writeup walks through my approach to resolving log parsing issues, configuring Splunk for effective field extraction, and analyzing parsed data for actionable insights. These steps reflect critical cybersecurity practices, such as effective log management and accurate data parsing, to support forensic investigations and operational analysis.
+The FixIt room on TryHackMe focuses on log ingestion, event boundary definition, field extraction, and event analysis using Splunk. This writeup details my approach to resolving log parsing issues, configuring Splunk for efficient field extraction, and analyzing parsed data for actionable insights, highlighting critical cybersecurity practices like effective log management and accurate data parsing to support forensic investigations and operational analysis.
 
 ---
 
