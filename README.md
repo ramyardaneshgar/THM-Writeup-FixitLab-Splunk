@@ -6,7 +6,7 @@ By Ramyar Daneshgar
 
 ## Introduction
 
-The FixIt room on TryHackMe focuses on log ingestion, event boundary definition, field extraction, and event analysis using Splunk. This writeup details my approach to resolving log parsing issues, configuring Splunk for efficient field extraction, and analyzing parsed data for forensic investigation.
+Focused on log ingestion, event boundary definition, field extraction, and event analysis using Splunk. This writeup details my approach to resolving log parsing issues, configuring Splunk for efficient field extraction, and analyzing parsed data for forensic investigation.
 
 ---
 
